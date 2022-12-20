@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1671566691826,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/6.ff552fbbd7344838.js",
+        "/639.88a56596b2ebe18e.js",
+        "/681.085c1aa8560c1da5.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.dc820eb4812c3f93.js",
+        "/manifest.webmanifest",
+        "/polyfills.03021cd4bfdadc70.js",
+        "/runtime.ebd71736a36415de.js",
+        "/styles.815e0b3f03e3228e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/categories/bunbetu.png",
+        "/assets/categories/clean.png",
+        "/assets/categories/gomidashi.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/otetudai.svg",
+        "/assets/stamp.png",
+        "/assets/stamps/cat.png",
+        "/assets/stamps/chiritsumo.png",
+        "/assets/stamps/dog.png",
+        "/assets/stamps/muscle.png",
+        "/assets/stamps/nico.png",
+        "/assets/stamps/popper.png",
+        "/assets/stamps/star.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/6.ff552fbbd7344838.js": "94bfc8b014e1afa020d204a787841dc13e9b7a28",
+    "/639.88a56596b2ebe18e.js": "2bfb92143dd1b033ac5df884e0ce5f67d8cfff45",
+    "/681.085c1aa8560c1da5.js": "61fc17fe6bb97f1b3e91f828bf46fa4dbeedbbaf",
+    "/assets/categories/bunbetu.png": "a62ef3fb63d6783eac3d5ed5b9fba2107b09f0b9",
+    "/assets/categories/clean.png": "0a5a95bd734a22e8b60aca5a32bbf02b7fd56171",
+    "/assets/categories/gomidashi.png": "9f40a913b1254bf3ba433da346dc5d81921035a0",
+    "/assets/icons/icon-128x128.png": "540acb6a3c4dfbce679692fea625861d635a3deb",
+    "/assets/icons/icon-144x144.png": "bec988c45dab21398586f9cfaedfcb5815156a67",
+    "/assets/icons/icon-152x152.png": "5e426cf1afbf1707376ddf4ba0a24d9ce51bcdfb",
+    "/assets/icons/icon-192x192.png": "b33d9ebbb2e4a49e9b8dda8ae2a1c65ec5411b1c",
+    "/assets/icons/icon-384x384.png": "d0a1ab3180825dae96b4debf9e6ca99985a235f9",
+    "/assets/icons/icon-512x512.png": "04b6184e34aa3851811429533471ff1a846aac27",
+    "/assets/icons/icon-72x72.png": "4ef2f41c3abfd950195f37d2b62b6eed62db5aca",
+    "/assets/icons/icon-96x96.png": "b1d72d41723b0aa729ee9829eaf6c9177ccee713",
+    "/assets/otetudai.svg": "c671ad085b30801bab392dd1fd1cd6824ca1df36",
+    "/assets/stamp.png": "2a8b7d131a626d758facf225b8ef64fb5599b4c2",
+    "/assets/stamps/cat.png": "0edc35b6a383116b81b137e5c763486951b8ad90",
+    "/assets/stamps/chiritsumo.png": "d5a62176317227f9ccba2a232b830f6407443053",
+    "/assets/stamps/dog.png": "59c9b519ba09f63675ca232478dfb2be4f424ee9",
+    "/assets/stamps/muscle.png": "15506e37f81b1ae12a70a1c84c470022cca6e8ca",
+    "/assets/stamps/nico.png": "efe229e872d5710bf3fa12d8aae027e36edb9705",
+    "/assets/stamps/popper.png": "cd6a6318038610efabc0e27f3081f244de0ea127",
+    "/assets/stamps/star.png": "3015b0a3cd2ff1b92716259f4d9b3279d07831a7",
+    "/favicon.ico": "5e426cf1afbf1707376ddf4ba0a24d9ce51bcdfb",
+    "/index.html": "9b4fa5870d31e24f6398edfa3879ce8b67d258d2",
+    "/main.dc820eb4812c3f93.js": "0aaf751e9cccd4dfe2a6f6343daf2158c6530b31",
+    "/manifest.webmanifest": "609e882caefbd82f9e7cfc9aac10e109dbdef8d2",
+    "/polyfills.03021cd4bfdadc70.js": "9aaae0542183301d382a2576dd38bc270bbf5be7",
+    "/runtime.ebd71736a36415de.js": "c4f97c42678a6bb9dfe52f102d853010d8cf54a3",
+    "/styles.815e0b3f03e3228e.css": "8b699f9ac1d829f86b078b0c54fac1121c2d7c07"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
